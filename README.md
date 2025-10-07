@@ -34,18 +34,18 @@ Execute the program using runserver command.
 <img src="C:\Users\chait\Downloads\WEB\logo.png" height="100" width="500">
 </center>
 <br>
-<table align="center" width="500" cellspacing="3" cellpadding="2" border="2" bgcolor="yellow">
+<table align="center" width="500" cellspacing="3" cellpadding="2" border="2" bgcolor="4EB8F2">
 <caption><b>SLOT TIME TABLE - CHAITANYA P S (212222230024)</b></caption>
 <tr align="center">
-<th bgcolor="cyan">Day/Time</th>
-<th bgcolor="cyan">Monday</th>
-<th bgcolor="cyan">Tuesday</th>
-<th bgcolor="cyan">Wednesday</th>
-<th bgcolor="cyan">Thursday</th>
-<th bgcolor="cyan">Friday</th>
+<th bgcolor="88AD79">Day/Time</th>
+<th bgcolor="88AD79">Monday</th>
+<th bgcolor="88AD79">Tuesday</th>
+<th bgcolor="88AD79">Wednesday</th>
+<th bgcolor="88AD79">Thursday</th>
+<th bgcolor="88AD79">Friday</th>
 </tr>
 <tr align="center">
-<th bgcolor="pink">8-10</th>
+<th bgcolor="C77ECC">8-10</th>
 <td>Free Slot</td>
 <td>OOPS</td>
 <td>OOPS</td>
@@ -53,7 +53,7 @@ Execute the program using runserver command.
 <td>Free Slot</td>
 </tr>
 <tr align="center">
-<th bgcolor="pink">10-12</th>
+<th bgcolor="C77ECC">10-12</th>
 <td>Free Slot</td>
 <td>Basic Finanical Accounting</td>
 <td>Fundamentals And Web Applications</td>
@@ -61,11 +61,11 @@ Execute the program using runserver command.
 <td>Free Slot</td>
 </tr>
 <tr>
-<th bgcolor="pink">12-1</th>
+<th bgcolor="C77ECC">12-1</th>
 <td colspan="6" align="center">L U N C H    B R E A K </td>
 </tr>
 <tr align="center">
-<th bgcolor="pink">1-3</th>
+<th bgcolor="C77ECC">1-3</th>
 <td>Fundamentals And Web Applications</td>
 <td>Free Slot</td>
 <td>Mentor Meet</td>
@@ -73,7 +73,7 @@ Execute the program using runserver command.
 <td>Ethicial Hacking</td>
 </tr>
 <tr align="center">
-<th bgcolor="pink">3-5</th>
+<th bgcolor="C77ECC">3-5</th>
 <td>Free Slot</td>
 <td>Basic Finanical Accounting</td>
 <td>Human Resource Management</td>
@@ -130,7 +130,7 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT
-<img width="1911" height="1079" alt="image" src="https://github.com/user-attachments/assets/d4abcde2-93e8-4e1c-b058-e017ebf2f7e9" />
+<img width="1919" height="1023" alt="image" src="https://github.com/user-attachments/assets/86236044-33a6-4578-a831-a9c27f769c6c" />
 
 
 ## RESULT
